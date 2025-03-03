@@ -1,0 +1,156 @@
+{
+    "title": "Front, Back of the Arm & Cubital Fossa",
+    "questions": [
+      {
+        "question": "1. Which muscle is the primary flexor of the elbow in the anterior compartment of the arm?",
+        "options": [
+          "Biceps brachii",
+          "Brachialis",
+          "Coracobrachialis",
+          "Triceps brachii"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "2. Which muscle is chiefly responsible for supination of the forearm?",
+        "options": [
+          "Biceps brachii",
+          "Brachialis",
+          "Coracobrachialis",
+          "Triceps brachii"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "3. Which nerve innervates the muscles of the anterior compartment of the arm (biceps brachii, brachialis, and coracobrachialis)?",
+        "options": [
+          "Musculocutaneous nerve",
+          "Median nerve",
+          "Radial nerve",
+          "Ulnar nerve"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "4. Which muscle is the primary extensor in the posterior compartment of the arm?",
+        "options": [
+          "Triceps brachii",
+          "Brachialis",
+          "Deltoid",
+          "Coracobrachialis"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "5. The long head of the triceps brachii originates from which anatomical landmark?",
+        "options": [
+          "Infraglenoid tubercle of the scapula",
+          "Acromion process",
+          "Coracoid process",
+          "Lateral epicondyle of the humerus"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "6. What is the primary function of the coracobrachialis muscle?",
+        "options": [
+          "Adduction and flexion of the arm",
+          "Extension of the arm",
+          "Abduction of the arm",
+          "Lateral rotation of the shoulder"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "7. Which muscle forms the lateral boundary of the cubital fossa?",
+        "options": [
+          "Brachioradialis",
+          "Pronator teres",
+          "Biceps brachii",
+          "Anconeus"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "8. Which structure is NOT found within the cubital fossa?",
+        "options": [
+          "Tendon of biceps brachii",
+          "Brachial artery",
+          "Median nerve",
+          "Ulnar nerve"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "9. What forms the roof of the cubital fossa?",
+        "options": [
+          "Skin and fascia",
+          "Biceps brachii muscle",
+          "Brachioradialis muscle",
+          "Pronator teres muscle"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "10. What primarily constitutes the floor of the cubital fossa?",
+        "options": [
+          "Brachialis and supinator muscles",
+          "Biceps brachii and brachialis muscles",
+          "Brachioradialis and pronator teres",
+          "Triceps brachii"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "11. Which is the main arterial vessel present in the cubital fossa?",
+        "options": [
+          "Brachial artery",
+          "Radial artery",
+          "Ulnar artery",
+          "Profunda brachii"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "12. Which nerve lies medial to the brachial artery within the cubital fossa?",
+        "options": [
+          "Median nerve",
+          "Radial nerve",
+          "Musculocutaneous nerve",
+          "Ulnar nerve"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "13. Which muscle forms the medial boundary of the cubital fossa?",
+        "options": [
+          "Pronator teres",
+          "Brachioradialis",
+          "Biceps brachii",
+          "Anconeus"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "14. Which bony landmark is used to define the superior boundary of the cubital fossa on the lateral side?",
+        "options": [
+          "Lateral epicondyle of the humerus",
+          "Medial epicondyle of the humerus",
+          "Olecranon process",
+          "Coronoid process"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "15. Which nerve, responsible for the extension of the forearm, passes near the lateral border of the cubital fossa?",
+        "options": [
+          "Radial nerve",
+          "Median nerve",
+          "Ulnar nerve",
+          "Musculocutaneous nerve"
+        ],
+        "correct": 0
+      }
+    ]
+  }
+  

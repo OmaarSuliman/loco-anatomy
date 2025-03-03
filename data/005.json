@@ -1,0 +1,155 @@
+{
+  "title": "Front of the forearm, palm of the hand",
+  "questions": [
+    {
+      "question": "1. Which muscle in the superficial layer of the anterior forearm is known for its frequent absence and is often used in tendon grafts?",
+      "options": [
+        "Flexor carpi radialis",
+        "Palmaris longus",
+        "Flexor carpi ulnaris",
+        "Flexor digitorum superficialis"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "2. Which muscle is primarily responsible for flexion of the wrist on the radial side of the forearm?",
+      "options": [
+        "Flexor carpi ulnaris",
+        "Flexor carpi radialis",
+        "Palmaris longus",
+        "Flexor digitorum superficialis"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "3. Which muscle of the anterior forearm is mainly supplied by the ulnar nerve?",
+      "options": [
+        "Flexor carpi radialis",
+        "Palmaris longus",
+        "Flexor carpi ulnaris",
+        "Flexor digitorum superficialis"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "4. Which deep muscle of the forearm is responsible for flexing the distal interphalangeal joints of the fingers?",
+      "options": [
+        "Flexor pollicis longus",
+        "Flexor digitorum superficialis",
+        "Flexor digitorum profundus",
+        "Pronator quadratus"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "5. The median nerve passes through which anatomical structure at the wrist?",
+      "options": [
+        "Guyon’s canal",
+        "Carpal tunnel",
+        "Cubital tunnel",
+        "Pronator teres"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "6. What forms the roof of the carpal tunnel?",
+      "options": [
+        "Transverse carpal ligament (flexor retinaculum)",
+        "Carpal bones",
+        "Flexor digitorum superficialis tendons",
+        "Median nerve"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "7. Which group of intrinsic hand muscles, innervated by the median nerve, is primarily responsible for thumb opposition?",
+      "options": [
+        "Thenar muscles (opponens pollicis, abductor pollicis brevis, superficial head of flexor pollicis brevis)",
+        "Hypothenar muscles",
+        "Interossei muscles",
+        "Lumbricals"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "8. Which artery primarily forms the superficial palmar arch in the hand?",
+      "options": [
+        "Radial artery",
+        "Ulnar artery",
+        "Deep palmar arch",
+        "Anterior interosseous artery"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "9. Which intrinsic muscle of the hand is mainly responsible for adduction of the thumb?",
+      "options": [
+        "Abductor pollicis brevis",
+        "Opponens pollicis",
+        "Adductor pollicis",
+        "Flexor pollicis brevis"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "10. Which nerve provides sensory innervation to the lateral palm, including the thumb, index, middle, and radial half of the ring finger?",
+      "options": [
+        "Ulnar nerve",
+        "Median nerve",
+        "Radial nerve",
+        "Musculocutaneous nerve"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "11. Which deep muscle of the forearm is primarily responsible for flexing the thumb?",
+      "options": [
+        "Flexor pollicis longus",
+        "Flexor digitorum superficialis",
+        "Flexor carpi radialis",
+        "Pronator teres"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "12. What is the primary action of the flexor digitorum superficialis?",
+      "options": [
+        "Flexion of the proximal interphalangeal joints",
+        "Flexion of the distal interphalangeal joints",
+        "Extension of the fingers",
+        "Abduction of the digits"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "13. Which nerve innervates the deep muscles of the anterior forearm, such as the flexor pollicis longus and the medial half of the flexor digitorum profundus?",
+      "options": [
+        "Median nerve",
+        "Ulnar nerve",
+        "Radial nerve",
+        "Musculocutaneous nerve"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "14. Which structure separates the superficial and deep layers of the anterior forearm?",
+      "options": [
+        "Flexor retinaculum",
+        "Bicipital aponeurosis",
+        "Fascial septum",
+        "Pronator teres"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "15. The recurrent branch of which nerve supplies the thenar muscles of the hand?",
+      "options": [
+        "Radial nerve",
+        "Ulnar nerve",
+        "Median nerve",
+        "Musculocutaneous nerve"
+      ],
+      "correct": 2
+    }
+  ]
+}

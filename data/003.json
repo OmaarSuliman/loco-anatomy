@@ -1,0 +1,206 @@
+{
+    "title": "Brachial Plexus",
+    "questions": [
+      {
+        "question": "1. Which of the following spinal nerve roots contribute to the brachial plexus?",
+        "options": [
+          "C3-C7",
+          "C5-T1",
+          "C5-C8",
+          "T1-T5"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "2. What is the first segment of the brachial plexus?",
+        "options": [
+          "Roots",
+          "Trunks",
+          "Divisions",
+          "Cords"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "3. Which of the following represents the correct sequence of subdivisions in the brachial plexus?",
+        "options": [
+          "Roots, Divisions, Trunks, Cords, Branches",
+          "Roots, Trunks, Divisions, Cords, Branches",
+          "Trunks, Roots, Divisions, Branches, Cords",
+          "Roots, Cords, Trunks, Divisions, Branches"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "4. Which trunk of the brachial plexus is formed by the union of the C5 and C6 roots?",
+        "options": [
+          "Upper trunk",
+          "Middle trunk",
+          "Lower trunk",
+          "Posterior trunk"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "5. Which nerve is the primary motor nerve to the flexors of the arm?",
+        "options": [
+          "Median nerve",
+          "Musculocutaneous nerve",
+          "Radial nerve",
+          "Ulnar nerve"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "6. Which cord of the brachial plexus gives rise to the median nerve?",
+        "options": [
+          "Lateral cord",
+          "Medial cord",
+          "Posterior cord",
+          "Both lateral and medial cords contribute"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "7. The posterior cord of the brachial plexus gives off which terminal branches?",
+        "options": [
+          "Axillary and radial nerves",
+          "Ulnar and median nerves",
+          "Musculocutaneous and median nerves",
+          "Radial and ulnar nerves"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "8. Which nerve originates from the lateral cord and supplies the muscles of the anterior compartment of the arm?",
+        "options": [
+          "Musculocutaneous nerve",
+          "Median nerve",
+          "Radial nerve",
+          "Ulnar nerve"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "9. Which nerve is formed by contributions from both the lateral and medial cords?",
+        "options": [
+          "Median nerve",
+          "Radial nerve",
+          "Axillary nerve",
+          "Musculocutaneous nerve"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "10. Which nerve is responsible for the sensory innervation of the lateral aspect of the forearm?",
+        "options": [
+          "Musculocutaneous nerve",
+          "Median nerve",
+          "Radial nerve",
+          "Ulnar nerve"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "11. Which trunk of the brachial plexus is formed solely by the C7 root?",
+        "options": [
+          "Upper trunk",
+          "Middle trunk",
+          "Lower trunk",
+          "Posterior trunk"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "12. The lower trunk of the brachial plexus is formed by which roots?",
+        "options": [
+          "C5-C6",
+          "C6-C7",
+          "C7-C8",
+          "C8-T1"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "13. Besides the musculocutaneous nerve, what does the lateral cord give rise to?",
+        "options": [
+          "Lateral root of the median nerve",
+          "Medial root of the median nerve",
+          "Ulnar nerve",
+          "Axillary nerve"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "14. Which cord of the brachial plexus is situated posteriorly relative to the axillary artery?",
+        "options": [
+          "Lateral cord",
+          "Medial cord",
+          "Posterior cord",
+          "None of the above"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "15. Which nerve is most commonly injured in a midshaft humeral fracture due to its close relation to the humerus?",
+        "options": [
+          "Radial nerve",
+          "Median nerve",
+          "Ulnar nerve",
+          "Musculocutaneous nerve"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "16. Which of the following nerves is NOT a terminal branch of the brachial plexus?",
+        "options": [
+          "Axillary nerve",
+          "Radial nerve",
+          "Ulnar nerve",
+          "Suprascapular nerve"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "17. What is the most common cause of Erb-Duchenne palsy in neonates?",
+        "options": [
+          "Excessive abduction of the arm during delivery",
+          "Trauma to the lower trunk of the brachial plexus",
+          "Compression of the radial nerve",
+          "Injury to the medial cord"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "18. Which nerve is primarily responsible for the motor innervation of the intrinsic muscles of the hand?",
+        "options": [
+          "Median nerve",
+          "Ulnar nerve",
+          "Radial nerve",
+          "Musculocutaneous nerve"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "19. Which of the following is a recognized anatomical variation of the brachial plexus?",
+        "options": [
+          "Prefixed brachial plexus (C4-C8)",
+          "Postfixed brachial plexus (C6-T2)",
+          "Both A and B",
+          "None of the above"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "20. Which nerve injury results in Klumpke's palsy, characterized by a claw hand deformity?",
+        "options": [
+          "Upper trunk injury",
+          "Lower trunk injury",
+          "Posterior cord injury",
+          "Lateral cord injury"
+        ],
+        "correct": 1
+      }
+    ]
+  }
+  
