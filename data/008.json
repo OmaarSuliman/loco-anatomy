@@ -1,0 +1,86 @@
+{
+    "title": "Joints of Upper Limb 2",
+    "questions": [
+      {
+        "question": "1. The carpometacarpal joint of the thumb is classified as which type of synovial joint?",
+        "options": [
+          "Saddle joint",
+          "Hinge joint",
+          "Ball-and-socket joint",
+          "Plane joint"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "2. The interphalangeal joints of the fingers are best described as:",
+        "options": [
+          "Hinge joints",
+          "Pivot joints",
+          "Saddle joints",
+          "Ellipsoidal joints"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "3. The radiocarpal (wrist) joint is classified as which type of joint?",
+        "options": [
+          "Ellipsoidal (condyloid) joint",
+          "Saddle joint",
+          "Hinge joint",
+          "Pivot joint"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "4. Which joint is primarily responsible for the thumb’s ability to oppose the fingers?",
+        "options": [
+          "Metacarpophalangeal joint",
+          "Carpometacarpal joint of the thumb",
+          "Interphalangeal joint of the thumb",
+          "Radiocarpal joint"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "5. The joints between carpal bones are typically classified as:",
+        "options": [
+          "Plane synovial joints",
+          "Hinge joints",
+          "Ball-and-socket joints",
+          "Condyloid joints"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "6. Which structure is essential for stabilizing the interphalangeal joints by preventing hyperextension?",
+        "options": [
+          "Collateral ligaments",
+          "Volar plate",
+          "Extensor retinaculum",
+          "Annular ligament"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "7. The metacarpophalangeal joints are best described as:",
+        "options": [
+          "Hinge joints",
+          "Condyloid joints",
+          "Saddle joints",
+          "Plane joints"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "8. Which joints allow for limited gliding movements between adjacent metacarpal bones?",
+        "options": [
+          "Carpometacarpal joints",
+          "Intermetacarpal joints",
+          "Metacarpophalangeal joints",
+          "Interphalangeal joints"
+        ],
+        "correct": 1
+      }
+    ]
+  }
+  

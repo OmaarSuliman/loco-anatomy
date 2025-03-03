@@ -1,0 +1,156 @@
+{
+    "title": "Joints of Upper Limb 1",
+    "questions": [
+      {
+        "question": "1. Which type of joint is the glenohumeral joint?",
+        "options": [
+          "Ball-and-socket",
+          "Hinge",
+          "Pivot",
+          "Saddle"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "2. What structure deepens the glenoid cavity and enhances stability of the shoulder joint?",
+        "options": [
+          "Glenoid labrum",
+          "Rotator cuff tendons",
+          "Acromion process",
+          "Coracoid process"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "3. The acromioclavicular joint is best classified as which type of joint?",
+        "options": [
+          "Plane synovial joint",
+          "Hinge joint",
+          "Ball-and-socket joint",
+          "Pivot joint"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "4. Which joint in the upper limb is the only true joint connecting the upper limb to the axial skeleton?",
+        "options": [
+          "Sternoclavicular joint",
+          "Glenohumeral joint",
+          "Acromioclavicular joint",
+          "Elbow joint"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "5. What type of joint is the sternoclavicular joint?",
+        "options": [
+          "Saddle joint",
+          "Ball-and-socket joint",
+          "Hinge joint",
+          "Pivot joint"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "6. Which ligament is the primary stabilizer of the proximal radioulnar joint?",
+        "options": [
+          "Annular ligament",
+          "Ulnar collateral ligament",
+          "Radial collateral ligament",
+          "Oblique cord"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "7. The elbow joint is best described as which type of synovial joint?",
+        "options": [
+          "Hinge joint",
+          "Ball-and-socket joint",
+          "Saddle joint",
+          "Pivot joint"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "8. Which joints are primarily responsible for the pronation and supination of the forearm?",
+        "options": [
+          "Both proximal and distal radioulnar joints",
+          "Elbow joint only",
+          "Wrist joint only",
+          "Carpometacarpal joints"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "9. The radiocarpal joint is commonly known as which joint?",
+        "options": [
+          "Wrist joint",
+          "Intercarpal joint",
+          "Carpometacarpal joint",
+          "Metacarpophalangeal joint"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "10. Which joint is responsible for allowing the distal radioulnar joint to perform pronation and supination?",
+        "options": [
+          "Distal radioulnar joint",
+          "Proximal radioulnar joint",
+          "Elbow joint",
+          "Radiocarpal joint"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "11. What type of joint are the interphalangeal joints of the fingers?",
+        "options": [
+          "Hinge joints",
+          "Ball-and-socket joints",
+          "Plane synovial joints",
+          "Pivot joints"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "12. Which joint is chiefly responsible for thumb opposition?",
+        "options": [
+          "Carpometacarpal joint of the thumb",
+          "Metacarpophalangeal joint",
+          "Interphalangeal joint of the thumb",
+          "Radiocarpal joint"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "13. Which structure provides a fibrocartilaginous rim to the glenoid cavity?",
+        "options": [
+          "Glenoid labrum",
+          "Coracoacromial ligament",
+          "Rotator cuff",
+          "Subscapularis tendon"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "14. Which joint of the elbow is primarily responsible for the rotation of the forearm?",
+        "options": [
+          "Proximal radioulnar joint",
+          "Distal radioulnar joint",
+          "Humeroulnar joint",
+          "Humeroradial joint"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "15. Which joint is known for its limited bony congruence and is stabilized mainly by surrounding ligaments and muscles?",
+        "options": [
+          "Glenohumeral joint",
+          "Elbow joint",
+          "Radiocarpal joint",
+          "Sternoclavicular joint"
+        ],
+        "correct": 0
+      }
+    ]
+  }
+  
