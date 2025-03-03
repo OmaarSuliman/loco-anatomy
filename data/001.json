@@ -1,0 +1,206 @@
+{
+    "title": "Pectoral, Shoulder & Back Muscles",
+    "questions": [
+      {
+        "question": "1. Which muscle forms the anterior axillary fold?",
+        "options": [
+          "Pectoralis major",
+          "Pectoralis minor",
+          "Teres major",
+          "Latissimus dorsi"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "2. Which muscle is often called the “swimmer’s muscle” because it extends, adducts, and medially rotates the humerus?",
+        "options": [
+          "Teres major",
+          "Latissimus dorsi",
+          "Infraspinatus",
+          "Trapezius"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "3. The main function of the rotator cuff muscles (SITS muscles) is to:",
+        "options": [
+          "Abduct the arm above 90 degrees",
+          "Stabilize the glenohumeral (shoulder) joint",
+          "Elevate the scapula",
+          "Extend the forearm at the elbow"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "4. Which nerve primarily innervates the pectoralis major muscle?",
+        "options": [
+          "Long thoracic nerve",
+          "Thoracodorsal nerve",
+          "Medial and lateral pectoral nerves",
+          "Axillary nerve"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "5. Which muscle is the chief abductor of the arm from 15° to 90°?",
+        "options": [
+          "Deltoid",
+          "Supraspinatus",
+          "Infraspinatus",
+          "Pectoralis major"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "6. Which muscle initiates the first 0–15° of arm abduction at the shoulder joint?",
+        "options": [
+          "Teres minor",
+          "Supraspinatus",
+          "Deltoid",
+          "Subscapularis"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "7. Which nerve innervates the latissimus dorsi muscle?",
+        "options": [
+          "Dorsal scapular nerve",
+          "Thoracodorsal nerve",
+          "Long thoracic nerve",
+          "Spinal accessory nerve"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "8. The trapezius muscle is innervated by which cranial nerve?",
+        "options": [
+          "Accessory nerve (CN XI)",
+          "Facial nerve (CN VII)",
+          "Vagus nerve (CN X)",
+          "Hypoglossal nerve (CN XII)"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "9. Which muscle protracts the scapula and holds it against the thoracic wall, preventing scapular winging?",
+        "options": [
+          "Pectoralis minor",
+          "Serratus anterior",
+          "Levator scapulae",
+          "Rhomboid major"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "10. The dorsal scapular nerve innervates which of the following muscles?",
+        "options": [
+          "Rhomboids (major and minor) and levator scapulae",
+          "Teres major and teres minor",
+          "Trapezius and latissimus dorsi",
+          "Pectoralis major and pectoralis minor"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "11. The infraspinatus muscle is primarily responsible for which action at the shoulder?",
+        "options": [
+          "Flexion",
+          "Abduction",
+          "External (lateral) rotation",
+          "Internal (medial) rotation"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "12. Which muscle lies deep to the trapezius and helps to elevate the scapula?",
+        "options": [
+          "Levator scapulae",
+          "Rhomboid major",
+          "Serratus posterior superior",
+          "Supraspinatus"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "13. Which muscle is both a strong medial rotator and adductor of the humerus, forming part of the posterior axillary fold?",
+        "options": [
+          "Latissimus dorsi",
+          "Teres major",
+          "Subscapularis",
+          "Deltoid"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "14. The subscapularis muscle is innervated by which nerve(s)?",
+        "options": [
+          "Lower subscapular nerve only",
+          "Upper subscapular nerve only",
+          "Upper and lower subscapular nerves",
+          "Thoracodorsal nerve"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "15. Which of the following muscles attaches to the coracoid process of the scapula?",
+        "options": [
+          "Pectoralis minor",
+          "Latissimus dorsi",
+          "Subscapularis",
+          "Trapezius"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "16. The levator scapulae muscle primarily acts to:",
+        "options": [
+          "Depress the scapula",
+          "Elevate the scapula",
+          "Protract the scapula",
+          "Retract the scapula"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "17. Which muscle is the major flexor of the arm at the shoulder joint among the pectoral region muscles?",
+        "options": [
+          "Pectoralis major",
+          "Pectoralis minor",
+          "Deltoid (anterior fibers)",
+          "Coracobrachialis"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "18. The rhomboid major and minor muscles have which primary action on the scapula?",
+        "options": [
+          "Protraction",
+          "Depression",
+          "Retraction (adduction)",
+          "Upward rotation"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "19. Which muscle is NOT part of the rotator cuff?",
+        "options": [
+          "Supraspinatus",
+          "Infraspinatus",
+          "Teres minor",
+          "Teres major"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "20. Injury to the long thoracic nerve results in paralysis of which muscle, leading to winged scapula?",
+        "options": [
+          "Serratus anterior",
+          "Pectoralis minor",
+          "Levator scapulae",
+          "Rhomboid major"
+        ],
+        "correct": 0
+      }
+    ]
+  }
+  
