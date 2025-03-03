@@ -1,0 +1,206 @@
+{
+    "title": "Back of forearm & dorsum of the Hand",
+    "questions": [
+      {
+        "question": "1. Which nerve supplies the motor innervation to the extensor muscles of the forearm?",
+        "options": [
+          "Radial nerve",
+          "Median nerve",
+          "Ulnar nerve",
+          "Musculocutaneous nerve"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "2. What is the primary function of the extensor carpi radialis longus?",
+        "options": [
+          "Wrist extension and abduction",
+          "Wrist flexion",
+          "Finger extension",
+          "Forearm pronation"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "3. Which muscle is primarily responsible for extension of the fingers at the metacarpophalangeal joints?",
+        "options": [
+          "Extensor digitorum",
+          "Extensor carpi radialis brevis",
+          "Extensor carpi ulnaris",
+          "Extensor indicis proprius"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "4. Which muscle specifically extends the thumb at the interphalangeal joint?",
+        "options": [
+          "Extensor pollicis longus",
+          "Extensor pollicis brevis",
+          "Abductor pollicis longus",
+          "Flexor pollicis longus"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "5. The extensor carpi ulnaris muscle is primarily involved in which movement at the wrist?",
+        "options": [
+          "Wrist extension with ulnar deviation",
+          "Wrist flexion with radial deviation",
+          "Finger extension",
+          "Forearm pronation"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "6. Which muscle is a deep extensor that assists specifically in extending the index finger?",
+        "options": [
+          "Extensor indicis proprius",
+          "Extensor digitorum",
+          "Extensor carpi radialis longus",
+          "Extensor pollicis brevis"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "7. Which structure on the dorsum of the wrist prevents bowstringing of the extensor tendons?",
+        "options": [
+          "Extensor retinaculum",
+          "Flexor retinaculum",
+          "Carpal tunnel",
+          "Dorsal intercarpal ligament"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "8. Which branch of the radial nerve provides sensory innervation to the dorsum of the hand?",
+        "options": [
+          "Superficial branch of the radial nerve",
+          "Deep branch of the radial nerve",
+          "Posterior interosseous nerve",
+          "Lateral cutaneous nerve of the forearm"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "9. Which tendon forms the lateral border of the anatomical snuffbox?",
+        "options": [
+          "Extensor pollicis brevis",
+          "Extensor pollicis longus",
+          "Abductor pollicis longus",
+          "Extensor carpi radialis longus"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "10. Which tendon forms the medial border of the anatomical snuffbox?",
+        "options": [
+          "Extensor pollicis longus",
+          "Extensor pollicis brevis",
+          "Extensor indicis proprius",
+          "Extensor carpi ulnaris"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "11. The dorsal digital extensor tendons insert into which structure on the fingers?",
+        "options": [
+          "Extensor expansion (dorsal digital expansion)",
+          "Flexor sheath",
+          "Volar plate",
+          "Nail bed"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "12. Which muscle is primarily responsible for extension of the little finger?",
+        "options": [
+          "Extensor digiti minimi",
+          "Extensor digitorum",
+          "Extensor indicis proprius",
+          "Extensor carpi ulnaris"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "13. Which bony landmark serves as the insertion point for the extensor carpi radialis brevis?",
+        "options": [
+          "Base of the 3rd metacarpal",
+          "Base of the 2nd metacarpal",
+          "Base of the 5th metacarpal",
+          "Styloid process of the radius"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "14. Which muscle originates from the lateral epicondyle of the humerus and participates in wrist extension?",
+        "options": [
+          "Extensor carpi radialis longus",
+          "Extensor carpi ulnaris",
+          "Extensor digitorum",
+          "Extensor indicis proprius"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "15. Which nerve branch is primarily responsible for the motor innervation of the extensor muscles in the forearm?",
+        "options": [
+          "Deep branch of the radial nerve",
+          "Superficial branch of the radial nerve",
+          "Median nerve",
+          "Ulnar nerve"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "16. Which muscle assists in extending the thumb and originates from the dorsal surface of the ulna?",
+        "options": [
+          "Extensor pollicis longus",
+          "Extensor pollicis brevis",
+          "Abductor pollicis longus",
+          "Extensor indicis proprius"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "17. Which of the following muscles is NOT typically found in the dorsal compartment of the forearm?",
+        "options": [
+          "Flexor carpi radialis",
+          "Extensor carpi radialis longus",
+          "Extensor digitorum",
+          "Extensor carpi ulnaris"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "18. What is the primary action of the dorsal interossei muscles in the hand?",
+        "options": [
+          "Abduction of the fingers",
+          "Adduction of the fingers",
+          "Flexion of the metacarpophalangeal joints",
+          "Extension of the interphalangeal joints"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "19. Which arterial network supplies blood to the dorsum of the hand?",
+        "options": [
+          "Dorsal carpal arch",
+          "Superficial palmar arch",
+          "Deep palmar arch",
+          "Radial recurrent arch"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "20. Which structure on the dorsum of the hand is visible as a network of veins beneath the skin?",
+        "options": [
+          "Dorsal venous network",
+          "Palmar venous arch",
+          "Radial vein",
+          "Ulnar vein"
+        ],
+        "correct": 0
+      }
+    ]
+  }
+  
