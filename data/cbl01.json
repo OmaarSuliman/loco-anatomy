@@ -1,0 +1,166 @@
+{
+    "title": "CBL1: Brachial Plexus and Its Major Branches, Nerve Injuries",
+    "questions": [
+      {
+        "question": "1. Which spinal nerve roots form the brachial plexus?",
+        "options": [
+          "C3-C7",
+          "C4-C8",
+          "C5-T1",
+          "C6-T2"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "2. What is the correct order of subdivisions in the brachial plexus?",
+        "options": [
+          "Roots, Trunks, Divisions, Cords, Branches",
+          "Trunks, Roots, Divisions, Branches, Cords",
+          "Roots, Divisions, Trunks, Cords, Branches",
+          "Cords, Roots, Trunks, Divisions, Branches"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "3. The union of the C5 and C6 roots forms which trunk of the brachial plexus?",
+        "options": [
+          "Upper trunk",
+          "Middle trunk",
+          "Lower trunk",
+          "Posterior trunk"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "4. Injury to the upper trunk of the brachial plexus typically leads to which condition?",
+        "options": [
+          "Erb-Duchenne palsy",
+          "Klumpke's palsy",
+          "Saturday night palsy",
+          "Radial nerve palsy"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "5. Klumpke's palsy is most commonly associated with damage to which part of the brachial plexus?",
+        "options": [
+          "Upper trunk",
+          "Middle trunk",
+          "Lower trunk",
+          "Posterior cord"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "6. Which nerve, arising from the lateral cord, is primarily responsible for innervating the flexor muscles of the anterior arm?",
+        "options": [
+          "Musculocutaneous nerve",
+          "Median nerve",
+          "Radial nerve",
+          "Ulnar nerve"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "7. Which nerve is most commonly injured in midshaft humeral fractures?",
+        "options": [
+          "Radial nerve",
+          "Median nerve",
+          "Ulnar nerve",
+          "Axillary nerve"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "8. Injury to the axillary nerve can lead to paralysis of which muscle?",
+        "options": [
+          "Deltoid muscle",
+          "Biceps brachii",
+          "Triceps brachii",
+          "Supraspinatus"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "9. The median nerve is formed by contributions from which cords of the brachial plexus?",
+        "options": [
+          "Lateral cord only",
+          "Medial cord only",
+          "Both lateral and medial cords",
+          "Posterior cord only"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "10. Which nerve provides sensory innervation to the lateral aspect of the forearm?",
+        "options": [
+          "Musculocutaneous nerve",
+          "Median nerve",
+          "Radial nerve",
+          "Ulnar nerve"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "11. Which nerve primarily innervates the intrinsic muscles of the hand, contributing to fine motor control?",
+        "options": [
+          "Median nerve",
+          "Radial nerve",
+          "Ulnar nerve",
+          "Musculocutaneous nerve"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "12. A patient with wrist drop most likely has an injury to which nerve?",
+        "options": [
+          "Radial nerve",
+          "Median nerve",
+          "Ulnar nerve",
+          "Axillary nerve"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "13. An ulnar nerve injury may lead to which characteristic hand deformity?",
+        "options": [
+          "Claw hand deformity",
+          "Wrist drop",
+          "Erb's palsy",
+          "Foot drop"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "14. Which nerve injury is associated with a winged scapula?",
+        "options": [
+          "Long thoracic nerve",
+          "Axillary nerve",
+          "Radial nerve",
+          "Ulnar nerve"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "15. The medial cord of the brachial plexus primarily contributes to which major nerve?",
+        "options": [
+          "Ulnar nerve",
+          "Radial nerve",
+          "Axillary nerve",
+          "Musculocutaneous nerve"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "16. During difficult childbirth, a traction injury to the brachial plexus often results in Erb-Duchenne palsy. Which of the following is a common clinical presentation of this injury?",
+        "options": [
+          "Arm adducted and internally rotated with extended elbow",
+          "Arm abducted and externally rotated with flexed elbow",
+          "Claw hand deformity",
+          "Wrist drop"
+        ],
+        "correct": 0
+      }
+    ]
+  }
+  

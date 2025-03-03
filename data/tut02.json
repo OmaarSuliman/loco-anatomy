@@ -1,0 +1,156 @@
+{
+    "title": "TUT2: Joints of Lower Limb",
+    "questions": [
+      {
+        "question": "1. Which joint is considered the largest and one of the most important weight-bearing joints in the lower limb?",
+        "options": [
+          "Hip joint",
+          "Knee joint",
+          "Ankle joint",
+          "Subtalar joint"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "2. What type of joint is the hip joint?",
+        "options": [
+          "Hinge joint",
+          "Ball-and-socket joint",
+          "Pivot joint",
+          "Saddle joint"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "3. Which ligament prevents anterior translation of the tibia relative to the femur in the knee joint?",
+        "options": [
+          "Anterior cruciate ligament (ACL)",
+          "Posterior cruciate ligament (PCL)",
+          "Medial collateral ligament (MCL)",
+          "Lateral collateral ligament (LCL)"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "4. Which ligament is the primary stabilizer against medial stress in the knee joint?",
+        "options": [
+          "Medial collateral ligament (MCL)",
+          "Lateral collateral ligament (LCL)",
+          "Anterior cruciate ligament (ACL)",
+          "Posterior cruciate ligament (PCL)"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "5. How is the knee joint primarily classified?",
+        "options": [
+          "Modified hinge joint",
+          "Ball-and-socket joint",
+          "Pivot joint",
+          "Saddle joint"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "6. Which joint connects the tibia and fibula distally?",
+        "options": [
+          "Distal tibiofibular syndesmosis",
+          "Proximal tibiofibular joint",
+          "Interosseous membrane",
+          "Ankle joint"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "7. The talocrural joint is better known as which joint?",
+        "options": [
+          "Ankle joint",
+          "Subtalar joint",
+          "Chopart joint",
+          "Tarsometatarsal joint"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "8. Which joint is primarily responsible for inversion and eversion of the foot?",
+        "options": [
+          "Subtalar joint",
+          "Ankle joint",
+          "Chopart joint",
+          "Tarsometatarsal joint"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "9. What structure increases the congruity of the knee joint by distributing load between the femur and tibia?",
+        "options": [
+          "Menisci",
+          "Ligaments",
+          "Articular cartilage",
+          "Synovial membrane"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "10. Which joint allows the patella to glide along the femur during knee extension?",
+        "options": [
+          "Patellofemoral joint",
+          "Tibiofemoral joint",
+          "Proximal tibiofibular joint",
+          "Distal tibiofibular joint"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "11. Which joint is formed by the articulation between the head of the fibula and the lateral condyle of the tibia?",
+        "options": [
+          "Proximal tibiofibular joint",
+          "Distal tibiofibular joint",
+          "Ankle joint",
+          "Knee joint"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "12. What is the primary movement allowed by the subtalar joint?",
+        "options": [
+          "Inversion and eversion",
+          "Flexion and extension",
+          "Abduction and adduction",
+          "Rotation"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "13. Which structure helps stabilize the lateral aspect of the knee by acting as a lateral band?",
+        "options": [
+          "Iliotibial tract (band)",
+          "Medial collateral ligament",
+          "Anterior cruciate ligament",
+          "Posterior capsule"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "14. Which joint is most commonly affected by osteoarthritis in the lower limb?",
+        "options": [
+          "Knee joint",
+          "Hip joint",
+          "Ankle joint",
+          "Subtalar joint"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "15. Which structure plays a key role in preventing hyperextension of the knee joint?",
+        "options": [
+          "Anterior cruciate ligament (ACL)",
+          "Posterior capsule and oblique popliteal ligament",
+          "Medial collateral ligament (MCL)",
+          "Lateral collateral ligament (LCL)"
+        ],
+        "correct": 1
+      }
+    ]
+  }
+  
